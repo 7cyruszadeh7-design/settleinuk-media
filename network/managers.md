@@ -2,7 +2,7 @@
 
 | manager-id | نام مدیر | برنامه | پلی‌لیست یوتیوب | روز/ساعت انتشار | وضعیت |
 |---|---|---|---|---|---|
-| emmanuel | Mr Emmanuel — Production Manager | Persian with Simorghak (children's series) | (to create) | شنبه‌ها ۰۹:۰۰ لندن (پیشنهادی) | فعال |
+| emmanuel | Mr Emmanuel — Production & Network Manager | Persian with Simorghak (children's series) | (to create) | شنبه‌ها ۰۹:۰۰ لندن (پیشنهادی) | فعال |
 
 ## پروتکل ارتباط با هر مدیر
 

@@ -7,7 +7,7 @@
 ## عنوان
 Persian with Simorghak | Ep 1 | فارسی با سیمرغک - Persian for Kids
 
-## توضیحات (اصلاح Mr Nolan: «Network Manager» → «Production Manager»)
+## توضیحات
 «فارسی با سیمرغک» یک مجموعهٔ کارتونی برای بچه‌های ایرانی خارج از کشور است؛ بچه‌هایی که فارسی را می‌فهمند ولی انگلیسی جواب می‌دهند.
 در قسمت اول با تارا، داداش کوچولویش آرش، مامان‌جون در اصفهان و سیمرغک آشنا می‌شوید؛ پرندهٔ کوچولوی جادویی‌ای که از کتاب شاهنامهٔ مامان‌جون بیرون می‌پرد.
 هر شنبه یک قسمت تازه در کانال Settle in UK.
@@ -17,7 +17,7 @@ In Episode 1, meet Tara, her little brother Arash, their grandmother Maman-joon 
 New episodes every Saturday on Settle in UK.
 
 Produced by Settle in UK
-Production Manager: Emmanuel
+Production & Network Manager: Emmanuel
 Supported by K&D Studio
 با حمایت K&D Studio
 
@@ -32,7 +32,7 @@ Persian for kids, learn Persian, Farsi for kids, learn Farsi, Persian cartoon, S
 | Audience | Made for kids = Yes (`selfDeclaredMadeForKids: true`) |
 | Category | Education (27) |
 | Video / audio language | Persian (`fa`) |
-| Paid promotion | خیر — اگر K&D Studio متعلق به مالک است و شرکت بیرونی پول نداده (⏳ تأیید مالکیت) |
+| Paid promotion | خیر — K&D Studio متعلق به مالک است، پرداخت بیرونی ندارد (تأیید مالک 2026-11-13) |
 | Playlist | Persian with Simorghak (ساخته می‌شود) |
 | Visibility | Private → Scheduled (publishAt) — انتشار عمومی فقط با تأیید مالک |
 | Publish time | ⏳ شنبه ۰۹:۰۰ لندن — تاریخ با تأیید مالک |
@@ -43,11 +43,11 @@ Persian for kids, learn Persian, Farsi for kids, learn Farsi, Persian cartoon, S
 - [x] فایل نهایی (v2) بررسی شد
 - [x] عنوان ≤ 100 کاراکتر، تکراری نیست
 - [x] تامبنیل 1280x720، خوانا در موبایل
-- [x] توضیحات + هشتگ‌ها (عنوان شغلی اصلاح شد)
+- [x] توضیحات + هشتگ‌ها
 - [ ] چپترها — لازم نیست (۱:۵۴)
 - [ ] زیرنویس — ندارد
 - [x] پلی‌لیست مشخص
 - [x] End screen/کارت — در Made for kids در دسترس نیست
-- [ ] تیتراژ داخل ویدیو هنوز «Network Manager: Emmanuel» است (Q-001) ⏳
-- [ ] Paid promotion ⏳
+- [x] تیتراژ: «Network Manager: Emmanuel» درست است (مالک: Emmanuel هر دو نقش را دارد)
+- [x] Paid promotion: خیر
 - [ ] تأیید مالک برای انتشار ⏳
