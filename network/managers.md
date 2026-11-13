@@ -2,12 +2,12 @@
 
 | manager-id | نام مدیر | برنامه | پلی‌لیست یوتیوب | روز/ساعت انتشار | وضعیت |
 |---|---|---|---|---|---|
-| emmanuel | Mr Emmanuel — Production Manager | Persian with Simorghak (children's series) | (to create) | (to agree — see Q-001) | فعال |
+| emmanuel | Mr Emmanuel — Production Manager | Persian with Simorghak (children's series) | (to create) | شنبه‌ها ۰۹:۰۰ لندن (پیشنهادی) | فعال |
 
 ## پروتکل ارتباط با هر مدیر
 
 ### emmanuel
-- محل کار مشترک: **OneDrive › SettleInUK › YouTube Final Delivery**
+- محل کار مشترک: **OneDrive › Desktop › SettleInUK › YouTube Final Delivery** (دسترسی Mr Nolan: Zapier OneDrive برای فهرست/لینک، دانلود از my.microsoftpersonalcontent.com)
 - نقطه‌ی شروع: `Delivery Log.csv`
 - پوشه‌ی هر تحویل: `<No.> - <date> - <project> - <item> - Mr Emmanuel` — شامل ویدیو، تامبنیل، `YouTube Upload.txt`، `Project Info.txt`
 - Mr Nolan فقط در `Questions and Answers.md` می‌نویسد. به فایل‌های داخل پوشه‌های تحویل دست نمی‌زند.

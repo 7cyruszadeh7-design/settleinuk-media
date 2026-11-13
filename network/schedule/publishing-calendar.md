@@ -4,5 +4,5 @@
 
 | تاریخ | ساعت | برنامه | نوع (Long / Short / Live) | عنوان | وضعیت (planned / ready / scheduled / published) | تأیید مالک |
 |---|---|---|---|---|---|---|
-| TBD | TBD | Persian with Simorghak | Long | 001 — Episode 1 | ready (منتظر پاسخ Q-001) | ❌ |
-| TBD | TBD | Persian with Simorghak | Long | 002 — Episode 2: "Salam! My name is Tara" | ready (منتظر پاسخ Q-001) | ❌ |
+| شنبه 2026-11-21 (پیشنهاد) | 09:00 | Persian with Simorghak | Long | 001 — Ep 1 Intro | waiting Q-001 (credits fix) | ❌ |
+| شنبه 2026-11-28 (پیشنهاد) | 09:00 | Persian with Simorghak | Long | 002 — Ep 2 "Salam! My name is Tara" | waiting Q-001 (credits fix) | ❌ |
