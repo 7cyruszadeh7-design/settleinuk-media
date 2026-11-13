@@ -18,7 +18,8 @@ New episodes every Saturday on Settle in UK.
 
 Produced by Settle in UK
 Production Manager: Emmanuel
-Sponsored by K&D Studio
+Supported by K&D Studio
+با حمایت K&D Studio
 
 #LearnPersian #Farsi #PersianForKids
 
@@ -31,7 +32,7 @@ Persian for kids, learn Persian, Farsi for kids, learn Farsi, Persian cartoon, S
 | Audience | Made for kids = Yes (`selfDeclaredMadeForKids: true`) |
 | Category | Education (27) |
 | Video / audio language | Persian (`fa`) |
-| Paid promotion | ⏳ تصمیم مالک |
+| Paid promotion | خیر — اگر K&D Studio متعلق به مالک است و شرکت بیرونی پول نداده (⏳ تأیید مالکیت) |
 | Playlist | Persian with Simorghak (ساخته می‌شود) |
 | Visibility | Private → Scheduled (publishAt) — انتشار عمومی فقط با تأیید مالک |
 | Publish time | ⏳ شنبه ۰۹:۰۰ لندن — تاریخ با تأیید مالک |
