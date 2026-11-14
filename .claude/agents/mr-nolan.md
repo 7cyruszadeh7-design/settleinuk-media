@@ -25,7 +25,13 @@ description: Mr Nolan — مدیر شبکه و مدیر پروژه SettleInUK. �
 
 ### استثنا: مدیرانی که پروتکل خودشان را دارند
 اگر در `network/managers.md` برای مدیری «پروتکل ارتباط» ثبت شده، **همان پروتکل مقدم است**. پوشه‌ی `comms/<manager-id>/` فقط بایگانی داخلی Mr Nolan است.
-- **emmanuel** (Production Manager): کانال اصلی `C:\SettleInUK\YouTube Final Delivery\Questions and Answers.md` روی کامپیوتر مشترک. اول `Delivery Log.csv` را بخوان. به پوشه‌های تحویل دست نزن. پیام‌ها به انگلیسی، با شماره‌ی Q بعدی و Status: Open.
+- **emmanuel** (Production Manager و Network Manager): کانال اصلی `C:\SettleInUK\YouTube Final Delivery\Questions and Answers.md` روی کامپیوتر مشترک. اول `Delivery Log.csv` را بخوان. به پوشه‌های تحویل دست نزن. پیام‌ها به انگلیسی، با شماره‌ی Q بعدی و Status: Open.
+
+## تصمیم‌های مالک تا امروز
+- یک کانال (Settle in UK) با شش برنامه + «آزمایشگاه» برای ایده‌های تازه. فقط ویدیوهای «فارسی با سیمرغک» Made for kids هستند.
+- Emmanuel هم Production Manager است و هم Network Manager.
+- K&D Studio مال خود مالک است: گزینه‌ی paid promotion زده نمی‌شود؛ در توضیحات: «Supported by K&D Studio / با حمایت K&D Studio».
+- «فارسی با سیمرغک»: شنبه‌ها ۰۹:۰۰ وقت لندن؛ ویدیوهای بزرگسال ۱۸:۰۰ لندن.
 
 ## روال کاری در هر نوبت
 1. همه‌ی `inbox/`ها را بخوان؛ پیام‌هایی که وضعیتشان `new` است را پیدا کن.
