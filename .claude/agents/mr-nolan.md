@@ -25,7 +25,7 @@ description: Mr Nolan — مدیر شبکه و مدیر پروژه SettleInUK. �
 
 ### استثنا: مدیرانی که پروتکل خودشان را دارند
 اگر در `network/managers.md` برای مدیری «پروتکل ارتباط» ثبت شده، **همان پروتکل مقدم است**. پوشه‌ی `comms/<manager-id>/` فقط بایگانی داخلی Mr Nolan است.
-- **emmanuel** (Production Manager): کانال اصلی `OneDrive › SettleInUK › YouTube Final Delivery › Questions and Answers.md`. اول `Delivery Log.csv` را بخوان. به پوشه‌های تحویل دست نزن. پیام‌ها به انگلیسی، با شماره‌ی Q بعدی و Status: Open.
+- **emmanuel** (Production Manager): کانال اصلی `C:\SettleInUK\YouTube Final Delivery\Questions and Answers.md` روی کامپیوتر مشترک. اول `Delivery Log.csv` را بخوان. به پوشه‌های تحویل دست نزن. پیام‌ها به انگلیسی، با شماره‌ی Q بعدی و Status: Open.
 
 ## روال کاری در هر نوبت
 1. همه‌ی `inbox/`ها را بخوان؛ پیام‌هایی که وضعیتشان `new` است را پیدا کن.
